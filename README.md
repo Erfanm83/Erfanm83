@@ -1,41 +1,32 @@
-<!-- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-</picture> -->
+### 👨🏻‍💻 &nbsp;About Me
+&nbsp;&nbsp;&nbsp;&nbsp;💼 Robotics Operator - Learning Robotics :) <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;🌱 Java Back-End Developer <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;👨🏻‍🎓 CE Student at Ferdowsi University of Mashhad
 
+- 🌱 I’m currently learning Robotics stuff 🦾
+- 💬 Ask me about My Previous Projects
+- ⚡ Fun fact: If we pull together and commit ourselves, then we can push through anything.
 
-## About me
+### ⚙️ &nbsp;GitHub Analytics
+<p align="center">
+  <a href="https://github.com/Erfanm83">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Erfanm83&hide=contribs,issues&show_icons=true&theme=radical&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Erfanm83&hide_border=true&cache_seconds=1800&layout=compact&langs_count=8&theme=radical"/>
+  <br/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Erfanm83&theme=radical&hide_border=true&background=1a1b27"/>
+  <br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Erfanm83&margin-w=10&no-frame=true&row=1&theme=radical"/>
+  </a>
+</p>
 
-<!-- TO DO: add more details about me later -->
+### 🤝🏻 &nbsp;Contact me
+  
+<p align="center">
 
-Hi, I'm Erfan. You might recognize me as GitHub's Erfanm83.
-
-<details open>
-<summary>My Top Languages</summary>
-
-| Rank | Languages     |
-|-----:|---------------|
-|     1|      Java     |
-|     2|      C++      |
-|     3|      C#       |
-
-</details>
-
----
-> If we pull together and commit ourselves, then we can push through anything.
-
-- Erfan Mahmoudi
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://api.whatsapp.com/send?phone=989150643158" target="_blank"><img src="https://img.shields.io/badge/-Erfanm83-2CA5E0?style=plastic&logo=whatsapp&color=succes&logoColor=white"/></a>
+<a href="mailto:erfanmahmudi1383@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-erfanmahmudi1383@gmail-D14836?style=plastic&logo=Gmail&logoColor=white"/></a>
+<a href="https://t.me/Lucerfan/" target="_blank"><img src="https://img.shields.io/badge/-Lucerfan-2CA5E0?style=plastic&logo=telegram&logoColor=white"/></a>
+<a href="https://www.instagram.com/khode_errfan/" target="_blank"><img src="https://img.shields.io/badge/-khode_errfan.pb-E4405F?style=plastic&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/erfan-mahmoudi-b4b564248/" target="_blank"><img src="https://img.shields.io/badge/-Erfanm83-2CA5E0?style=plastic&logo=linkedin&logoColor=white"/></a>
+  
+</p>

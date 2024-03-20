@@ -1,9 +1,9 @@
 ### 👨🏻‍💻 &nbsp;About Me
-&nbsp;&nbsp;&nbsp;&nbsp;💼 Robotics Operator - Learning Robotics :) <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;💼 Robotics lover :) <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;🌱 Java Back-End Developer <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;👨🏻‍🎓 CE Student at Ferdowsi University of Mashhad
 
-- 🌱 I’m currently learning Robotics stuff 🦾
+- 🌱 I’m currently working on RFID with ESP8266 Module with google spreadsheet 🦾
 - 💬 Ask me about My Previous Projects
 - ⚡ Fun fact: If we pull together and commit ourselves, then we can push through anything.
 

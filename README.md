@@ -1,9 +1,9 @@
 ### 👨🏻‍💻 &nbsp;About Me
-&nbsp;&nbsp;&nbsp;&nbsp;💼 An Enthusiest Student :) <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;🌱 Back-End Developer <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;💼 Software Developer at @IranServer <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;🌱 Back-End Python Developer <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;👨🏻‍🎓 CE Student at Ferdowsi University of Mashhad
 
-- 🌱 I’m currently working on delivery fare estimation Project 🦾
+- 🌱 I’m currently working on langchain-rag Chatbot 🦾
 - 💬 Ask me about My Previous Projects
 - ⚡ Fun fact: If we pull together and commit ourselves, then we can push through anything.
 
